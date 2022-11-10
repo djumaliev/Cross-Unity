@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{BAB87A7F-E561-CF85-A28D-9F48E37C2925}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cross.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Cross.cs" Line="133" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="d08fa5d8-2f76-45f1-8cd0-5ffe00bbac92" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
